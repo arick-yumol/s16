@@ -72,7 +72,7 @@
 // }
 // while (i < 38);
 
-// DO WHILE LOOP: all add numbers between 300 and 333
+// DO WHILE LOOP: all odd numbers between 300 and 333
 // let i = 300;
 // do {
 // 	i++;
